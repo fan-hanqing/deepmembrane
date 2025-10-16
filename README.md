@@ -1,2 +1,2 @@
 # deepmembrane
-This is for multiscale modeling of membrane separations.
+This is for multiscale modeling of membrane separations. [Internal testing]
